@@ -1,3 +1,3 @@
 <?php
-$mysqli = new mysqli('localhost', 'root', '', 'alpha');
+$mysqli = new mysqli('103.23.61.115', 'root', 'sqlroot', 'alpha');
 ?>
